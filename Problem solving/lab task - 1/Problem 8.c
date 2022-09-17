@@ -13,6 +13,7 @@ int main()
     num3=(n/100) %10;
     num4=(n/1000) %10;
     num5=(n/10000) %10;
+
     printf("The reverse numbers are: %d%d%d%d%d" ,num1,num2, num3, num4, num5 );
 
 
